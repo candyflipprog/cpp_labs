@@ -3,7 +3,7 @@
 int main() {
     std::string number;
 
-    std::cout << "Enter number: ";
+    std::cout << "Enter number(Example - 123): ";
     std::cin >> number;
 
     char a = number.c_str()[0];
